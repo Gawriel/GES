@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GES", "GES\GES.csproj", "{437BE4C1-0FCD-4D21-9B50-6886B3EC56D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{92D9C331-6E88-4F4F-BFDB-F45F4CC3E8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437BE4C1-0FCD-4D21-9B50-6886B3EC56D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437BE4C1-0FCD-4D21-9B50-6886B3EC56D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437BE4C1-0FCD-4D21-9B50-6886B3EC56D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437BE4C1-0FCD-4D21-9B50-6886B3EC56D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D9C331-6E88-4F4F-BFDB-F45F4CC3E8E2}.Debug|Any CPU.ActiveCfg = Debug
+		{92D9C331-6E88-4F4F-BFDB-F45F4CC3E8E2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0ACD84-3B73-44B1-BEA0-89CB414660C6}
+	EndGlobalSection
+EndGlobal
